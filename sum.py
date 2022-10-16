@@ -1,5 +1,8 @@
 a = 2
-b = 5
+b = 8
 
-print(a+b)
+def sum(c,d):
+    return c+d
+
+print(sum(a,b))
 
